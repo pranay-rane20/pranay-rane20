@@ -32,5 +32,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=pranayrane&color=blue)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranay-rane20&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
