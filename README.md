@@ -30,9 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-multer-js-object-middleware-for-handling-multipart-micromessaging-logo-color-tal-revivo.png" alt="Multer.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/websockets.png" alt="Web Sockets" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/webrtc.png" alt="WebRTC" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google Auth" width="40" height="40"/>
   <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
